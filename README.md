@@ -62,7 +62,6 @@
         <p>Watch this tutorial on Python:</p>
         <video controls>
             <source src="python-tutorial.mp4" type="video/mp4">
-            Your browser does not support the video tag.
         </video>
     </section>
 
